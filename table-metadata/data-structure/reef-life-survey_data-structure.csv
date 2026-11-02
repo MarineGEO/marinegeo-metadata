@@ -15,7 +15,7 @@ Reef Life Survey,reef-life-survey-data-marinegeo-v1,depth,DOUBLE,,,depth
 Reef Life Survey,reef-life-survey-data-marinegeo-v1,method,TINYINT,,,method
 Reef Life Survey,reef-life-survey-data-marinegeo-v1,block,TINYINT,,,block
 Reef Life Survey,reef-life-survey-data-marinegeo-v1,code,STRING,,,rls_code
-Reef Life Survey,reef-life-survey-data-marinegeo-v1,species,STRING,,,species
+Reef Life Survey,reef-life-survey-data-marinegeo-v1,species,STRING,,,scientific_name
 Reef Life Survey,reef-life-survey-data-marinegeo-v1,taxonomic_id,INT,,,taxonomic_id
 Reef Life Survey,reef-life-survey-data-marinegeo-v1,common_name,STRING,,,common_name
 Reef Life Survey,reef-life-survey-data-marinegeo-v1,total,INT,,,total
