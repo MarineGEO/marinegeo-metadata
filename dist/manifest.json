@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T16:18:53Z",
+  "generated_at": "2026-11-03T14:56:32Z",
   "generator": "R/generate-metadata-dist.R",
   "bundles": {
     "qc-metadata": {
       "path": "dist/qc-metadata.json",
-      "sha256": "c0cbc5609e577a1d1d597c94d197b54ea16322477d155ccef6d243db25f1fd89",
-      "bytes": 164045,
+      "sha256": "5e5625eb2ddd2982ff74fd49e5a1eda393a2fdb6641a397d590a542ae69a3879",
+      "bytes": 165843,
       "tables": {
         "database_structure": {
           "rows": 570,
@@ -243,8 +243,8 @@
     },
     "taxonomy": {
       "path": "dist/taxonomy.json",
-      "sha256": "ec21ca043379b9c20e2e7eabd0b01696641fb6d884b8acd0564b6e8eeeb323ab",
-      "bytes": 1111989,
+      "sha256": "47ffa097e2d36ae38cd883fe60b9b02d29db0df3e3c8ba05c41a1acf8016a9de",
+      "bytes": 1675671,
       "tables": {
         "observation_lookup": {
           "rows": 1696,
@@ -285,7 +285,7 @@
           ]
         },
         "nested_labelsets": {
-          "rows": 2115,
+          "rows": 5021,
           "columns": [
             {
               "name": "from",
@@ -362,7 +362,7 @@
     "table-metadata/data-structure/seagrass-monitoring_data-structure.csv": "c64387123fdeb422462159a21b6ba9bf45a6fe0860a4be6de8a8c9ce1002aaf7",
     "table-metadata/numeric-ranges/cross_protocol_ranges.csv": "822013a8cd57ed98b6d5e2153e238f72048f33a789334f1ee41ac8fa5bc538d9",
     "table-metadata/numeric-ranges/oyster-reef-monitoring_numeric-ranges.csv": "8891db027a577bd93bdd0f3903d70289d6e028309edc3d08b6dccd682050d502",
-    "table-metadata/numeric-ranges/reef-life-survey_numeric-ranges.csv": "6a402baedf6c89bc07bc4d2cbe4d9ac3adeb547f5ff4eb469993c53d9e8ff7c7",
+    "table-metadata/numeric-ranges/reef-life-survey_numeric-ranges.csv": "16966871e3171c6e7033688ba8b92abd14bb438f6cb99ad70734da2be99e4c1b",
     "table-metadata/numeric-ranges/seagrass-monitoring_numeric-ranges.csv": "8ca11c25f73bbfe30967d1238e44bf2283fd4ec30812fc977e8e1779ce6df6d8",
     "sites-and-partners/partner-codes/partners.csv": "a927750dc93aab5c202fb9bf8d8ba92408edf1a76232e55071b332390fc5aabc",
     "sites-and-partners/site-names/3M_partners_locations.csv": "8cf0733171468bfc75c3bcc95f3fb99efb5c40fe22241c8e2722d925c22e83fb",
@@ -391,6 +391,7 @@
     "taxonomy-and-functional-groups/nested-labelsets/fouling_cover.csv": "3111d067413c0dd8d2f0a003d12e121485ad53d29af3d1f144e9b36a8320f803",
     "taxonomy-and-functional-groups/nested-labelsets/oyster_composition.csv": "d3741ee45d0539aa7c3a1ef4f44aafb0731926ebf8fb2257d5a9c804446b4d18",
     "taxonomy-and-functional-groups/nested-labelsets/oyster_density.csv": "26f5909a13262af68a3f712190f04887484238a1ca4bc7955650228a0e0491bf",
+    "taxonomy-and-functional-groups/nested-labelsets/reef_life_survey.csv": "b1a964407e69c45b07990bc1f8d98fae3c633ce77f09e5c8006140d862d7de19",
     "taxonomy-and-functional-groups/nested-labelsets/vegetation.csv": "1a21558f409f5ddb121f45aff28c24cf139bdd1edc0564b55a00d41e6ce916db",
     "taxonomy-and-functional-groups/observation-lookup/marinegeo_observation_ids.csv": "ec7c8b60df3928ed70638d099fc1c9312d43d07b893e091765aec082ef9b7d5e",
     "taxonomy-and-functional-groups/taxonomic-lookup/marinegeo_taxonomic_lookup.csv": "496195b2a32b02119e1a47038963f2ad75d1ffe097859652935be7d278196c04",
