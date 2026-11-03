@@ -162,6 +162,7 @@ Molgulidae,Stolidobranchia,urn:lsid:marinespecies.org:taxname:103448,NA,NA,Famil
 Pyuridae,Stolidobranchia,urn:lsid:marinespecies.org:taxname:103449,NA,NA,Family,NA,reef_life_survey
 Styelidae,Stolidobranchia,urn:lsid:marinespecies.org:taxname:103450,NA,NA,Family,NA,reef_life_survey
 Galeomorphi,Selachii,urn:lsid:marinespecies.org:taxname:368410,NA,NA,Superorder,NA,reef_life_survey
+Torpediniformes,Batoidea,urn:lsid:marinespecies.org:taxname:10215,NA,NA,Order,NA,reef_life_survey
 Myliobatiformes,Batoidea,urn:lsid:marinespecies.org:taxname:196069,NA,NA,Order,NA,reef_life_survey
 Elopiformes,Teleostei,urn:lsid:marinespecies.org:taxname:10292,NA,NA,Order,NA,reef_life_survey
 Anguilliformes,Teleostei,urn:lsid:marinespecies.org:taxname:10295,NA,NA,Order,NA,reef_life_survey
@@ -339,6 +340,7 @@ Styela,Styelidae,urn:lsid:marinespecies.org:taxname:103543,NA,NA,Genus,NA,reef_l
 Symplegma,Styelidae,urn:lsid:marinespecies.org:taxname:206885,NA,NA,Genus,NA,reef_life_survey
 Orectolobiformes,Galeomorphi,urn:lsid:marinespecies.org:taxname:10208,NA,NA,Order,NA,reef_life_survey
 Carcharhiniformes,Galeomorphi,urn:lsid:marinespecies.org:taxname:10210,NA,NA,Order,NA,reef_life_survey
+Narcinidae,Torpediniformes,urn:lsid:marinespecies.org:taxname:148816,NA,NA,Family,NA,reef_life_survey
 Dasyatidae,Myliobatiformes,urn:lsid:marinespecies.org:taxname:105708,NA,NA,Family,NA,reef_life_survey
 Urotrygonidae,Myliobatiformes,urn:lsid:marinespecies.org:taxname:397229,NA,NA,Family,NA,reef_life_survey
 Aetobatidae,Myliobatiformes,urn:lsid:marinespecies.org:taxname:1517438,NA,NA,Family,NA,reef_life_survey
@@ -662,6 +664,7 @@ Symplegma brakenhielmi,Symplegma,urn:lsid:marinespecies.org:taxname:251435,NA,NA
 Ginglymostomatidae,Orectolobiformes,urn:lsid:marinespecies.org:taxname:105705,NA,NA,Family,NA,reef_life_survey
 Carcharhinidae,Carcharhiniformes,urn:lsid:marinespecies.org:taxname:105689,NA,NA,Family,NA,reef_life_survey
 Sphyrnidae,Carcharhiniformes,urn:lsid:marinespecies.org:taxname:105694,NA,NA,Family,NA,reef_life_survey
+Narcine,Narcinidae,urn:lsid:marinespecies.org:taxname:157865,NA,NA,Genus,NA,reef_life_survey
 Dasyatis,Dasyatidae,urn:lsid:marinespecies.org:taxname:105751,NA,NA,Genus,NA,reef_life_survey
 Hypanus,Dasyatidae,urn:lsid:marinespecies.org:taxname:1042855,NA,NA,Genus,NA,reef_life_survey
 Urobatis,Urotrygonidae,urn:lsid:marinespecies.org:taxname:271193,NA,NA,Genus,NA,reef_life_survey
@@ -1062,6 +1065,7 @@ Ginglymostoma,Ginglymostomatidae,urn:lsid:marinespecies.org:taxname:105748,NA,NA
 Carcharhinus,Carcharhinidae,urn:lsid:marinespecies.org:taxname:105719,NA,NA,Genus,NA,reef_life_survey
 Negaprion,Carcharhinidae,urn:lsid:marinespecies.org:taxname:105721,NA,NA,Genus,NA,reef_life_survey
 Sphyrna,Sphyrnidae,urn:lsid:marinespecies.org:taxname:105730,NA,NA,Genus,NA,reef_life_survey
+Narcine brasiliensis,Narcine,urn:lsid:marinespecies.org:taxname:157866,NA,NA,Species,NA,reef_life_survey
 Dasyatis americana,Dasyatis,urn:lsid:marinespecies.org:taxname:158526,NA,NA,Species,NA,reef_life_survey
 Dasyatis hypostigma,Dasyatis,urn:lsid:marinespecies.org:taxname:271436,NA,NA,Species,NA,reef_life_survey
 Hypanus americanus,Hypanus,urn:lsid:marinespecies.org:taxname:1042856,NA,NA,Species,NA,reef_life_survey
@@ -1086,6 +1090,7 @@ Brevoortia tyrannus,Brevoortia,urn:lsid:marinespecies.org:taxname:158691,NA,NA,S
 Synodontinae,Synodontidae,urn:lsid:marinespecies.org:taxname:151856,NA,NA,Subfamily,NA,reef_life_survey
 Stygnobrotula latebricola,Stygnobrotula,urn:lsid:marinespecies.org:taxname:282910,NA,NA,Species,NA,reef_life_survey
 Opsanus,Batrachoidinae,urn:lsid:marinespecies.org:taxname:158781,NA,NA,Genus,NA,reef_life_survey
+Amphichthys,Batrachoidinae,urn:lsid:marinespecies.org:taxname:268294,NA,NA,Genus,NA,reef_life_survey
 Ogcocephalus,Ogcocephalidae,urn:lsid:marinespecies.org:taxname:159191,NA,NA,Genus,NA,reef_life_survey
 Gobiesox,Gobiesocinae,urn:lsid:marinespecies.org:taxname:158785,NA,NA,Genus,NA,reef_life_survey
 Menidia,Menidiinae,urn:lsid:marinespecies.org:taxname:159225,NA,NA,Genus,NA,reef_life_survey
@@ -1491,8 +1496,8 @@ Holothuria mexicana,Holothuria,urn:lsid:marinespecies.org:taxname:732363,NA,NA,S
 Acanthochitoninae,Acanthochitonidae,urn:lsid:marinespecies.org:taxname:1353774,NA,NA,Subfamily,NA,reef_life_survey
 Rissoella,Rissoellidae,urn:lsid:marinespecies.org:taxname:138438,NA,NA,Genus,NA,reef_life_survey
 Japonactaeon,Acteonidae,urn:lsid:marinespecies.org:taxname:415521,NA,NA,Genus,NA,reef_life_survey
+Doridina,Nudibranchia,urn:lsid:marinespecies.org:taxname:1052385,NA,NA,Suborder,NA,reef_life_survey
 Tritonina,Nudibranchia,urn:lsid:marinespecies.org:taxname:1829315,NA,NA,Suborder,NA,reef_life_survey
-Doridoidei,Doridida,urn:lsid:marinespecies.org:taxname:246038,NA,NA,Infraorder,NA,reef_life_survey
 Aglajidae,Philinoidea,urn:lsid:marinespecies.org:taxname:22981,NA,NA,Family,NA,reef_life_survey
 Bullidae,Bulloidea,urn:lsid:marinespecies.org:taxname:9845,NA,NA,Family,NA,reef_life_survey
 Tornatinidae,Bulloidea,urn:lsid:marinespecies.org:taxname:511913,NA,NA,Family,NA,reef_life_survey
@@ -1537,6 +1542,7 @@ Murexsul,Aspellinae,urn:lsid:marinespecies.org:taxname:397215,NA,NA,Genus,NA,ree
 Conus anabathrum,Conus,urn:lsid:marinespecies.org:taxname:420200,NA,NA,Species,NA,reef_life_survey
 Conus daucus,Conus,urn:lsid:marinespecies.org:taxname:420208,NA,NA,Species,NA,reef_life_survey
 Conus floridanus,Conus,urn:lsid:marinespecies.org:taxname:429079,NA,NA,Species,NA,reef_life_survey
+Conus cedonulli,Conus,urn:lsid:marinespecies.org:taxname:430327,NA,NA,Species,NA,reef_life_survey
 Pyrgocythara plicosa,Pyrgocythara,urn:lsid:marinespecies.org:taxname:160476,NA,NA,Species,NA,reef_life_survey
 Pyrgospira tampaensis,Pyrgospira,urn:lsid:marinespecies.org:taxname:420266,NA,NA,Species,NA,reef_life_survey
 Buccinum,Buccininae,urn:lsid:marinespecies.org:taxname:137701,NA,NA,Genus,NA,reef_life_survey
@@ -1598,6 +1604,7 @@ Naria,Erosariinae,urn:lsid:marinespecies.org:taxname:573905,NA,NA,Genus,NA,reef_
 Luriini,Luriinae,urn:lsid:marinespecies.org:taxname:411680,NA,NA,Tribe,NA,reef_life_survey
 Sinum,Sininae,urn:lsid:marinespecies.org:taxname:138244,NA,NA,Genus,NA,reef_life_survey
 Lampasopsis thomae,Lampasopsis,urn:lsid:marinespecies.org:taxname:1472329,NA,NA,Species,NA,reef_life_survey
+Cypraecassis,Cassinae,urn:lsid:marinespecies.org:taxname:204021,NA,NA,Genus,NA,reef_life_survey
 Cassis,Cassinae,urn:lsid:marinespecies.org:taxname:206265,NA,NA,Genus,NA,reef_life_survey
 Monoplex parthenopeus,Monoplex,urn:lsid:marinespecies.org:taxname:476531,NA,NA,Species,NA,reef_life_survey
 Monoplex martinianus,Monoplex,urn:lsid:marinespecies.org:taxname:1023582,NA,NA,Species,NA,reef_life_survey
@@ -1679,6 +1686,7 @@ Myrichthys breviceps,Myrichthys,urn:lsid:marinespecies.org:taxname:158637,NA,NA,
 Anchoa mitchilli,Anchoa,urn:lsid:marinespecies.org:taxname:158699,NA,NA,Species,NA,reef_life_survey
 Synodus,Synodontinae,urn:lsid:marinespecies.org:taxname:125686,NA,NA,Genus,NA,reef_life_survey
 Opsanus tau,Opsanus,urn:lsid:marinespecies.org:taxname:158782,NA,NA,Species,NA,reef_life_survey
+Amphichthys cryptocentrus,Amphichthys,urn:lsid:marinespecies.org:taxname:279590,NA,NA,Species,NA,reef_life_survey
 Ogcocephalus vespertilio,Ogcocephalus,urn:lsid:marinespecies.org:taxname:159195,NA,NA,Species,NA,reef_life_survey
 Gobiesox strumosus,Gobiesox,urn:lsid:marinespecies.org:taxname:158787,NA,NA,Species,NA,reef_life_survey
 Menidia beryllina,Menidia,urn:lsid:marinespecies.org:taxname:159227,NA,NA,Species,NA,reef_life_survey
@@ -1769,6 +1777,7 @@ Sargocentron vexillarium,Sargocentron,urn:lsid:marinespecies.org:taxname:159401,
 Holocentrus adscensionis,Holocentrus,urn:lsid:marinespecies.org:taxname:159378,NA,NA,Species,NA,reef_life_survey
 Holocentrus rufus,Holocentrus,urn:lsid:marinespecies.org:taxname:276189,NA,NA,Species,NA,reef_life_survey
 Neoniphon marianus,Neoniphon,urn:lsid:marinespecies.org:taxname:276205,NA,NA,Species,NA,reef_life_survey
+Neoniphon vexillarius,Neoniphon,urn:lsid:marinespecies.org:taxname:1904776,NA,NA,Species,NA,reef_life_survey
 Scomberomorus maculatus,Scomberomorus,urn:lsid:marinespecies.org:taxname:159342,NA,NA,Species,NA,reef_life_survey
 Scomberomorus regalis,Scomberomorus,urn:lsid:marinespecies.org:taxname:273819,NA,NA,Species,NA,reef_life_survey
 Coryphopterus glaucofraenum,Coryphopterus,urn:lsid:marinespecies.org:taxname:159736,NA,NA,Species,NA,reef_life_survey
@@ -1987,9 +1996,8 @@ Holothuria (Thymiosycia) thomasi,Holothuria (Thymiosycia),urn:lsid:marinespecies
 Cryptoconchus,Acanthochitoninae,urn:lsid:marinespecies.org:taxname:152815,NA,NA,Genus,NA,reef_life_survey
 Rissoella caribaea,Rissoella,urn:lsid:marinespecies.org:taxname:420414,NA,NA,Species,NA,reef_life_survey
 Japonactaeon punctostriatus,Japonactaeon,urn:lsid:marinespecies.org:taxname:420514,NA,NA,Species,NA,reef_life_survey
+Doridoidei,Doridina,urn:lsid:marinespecies.org:taxname:246038,NA,NA,Infraorder,NA,reef_life_survey
 Tritonioidea,Tritonina,urn:lsid:marinespecies.org:taxname:412595,NA,NA,Superfamily,NA,reef_life_survey
-Onchidoridoidea,Doridoidei,urn:lsid:marinespecies.org:taxname:246152,NA,NA,Superfamily,NA,reef_life_survey
-Chromodoridoidea,Doridoidei,urn:lsid:marinespecies.org:taxname:1370609,NA,NA,Superfamily,NA,reef_life_survey
 Chelidonura,Aglajidae,urn:lsid:marinespecies.org:taxname:137638,NA,NA,Genus,NA,reef_life_survey
 Bulla,Bullidae,urn:lsid:marinespecies.org:taxname:137716,NA,NA,Genus,NA,reef_life_survey
 Acteocina,Tornatinidae,urn:lsid:marinespecies.org:taxname:137866,NA,NA,Genus,NA,reef_life_survey
@@ -2060,8 +2068,10 @@ Littorina littorea,Littorina,urn:lsid:marinespecies.org:taxname:140262,NA,NA,Spe
 Cyphoma gibbosum,Cyphoma,urn:lsid:marinespecies.org:taxname:432297,NA,NA,Species,NA,reef_life_survey
 Macrocypraea,Mauritiini,urn:lsid:marinespecies.org:taxname:415594,NA,NA,Genus,NA,reef_life_survey
 Naria acicularis,Naria,urn:lsid:marinespecies.org:taxname:1075023,NA,NA,Species,NA,reef_life_survey
+Naria turdus,Naria,urn:lsid:marinespecies.org:taxname:1079151,NA,NA,Species,NA,reef_life_survey
 Luria,Luriini,urn:lsid:marinespecies.org:taxname:137877,NA,NA,Genus,NA,reef_life_survey
 Sinum perspectivum,Sinum,urn:lsid:marinespecies.org:taxname:160053,NA,NA,Species,NA,reef_life_survey
+Cypraecassis testiculus,Cypraecassis,urn:lsid:marinespecies.org:taxname:224277,NA,NA,Species,NA,reef_life_survey
 Cassis tuberosa,Cassis,urn:lsid:marinespecies.org:taxname:224977,NA,NA,Species,NA,reef_life_survey
 Peringia ulvae,Peringia,urn:lsid:marinespecies.org:taxname:151628,NA,NA,Species,NA,reef_life_survey
 Ecrobia ventrosa,Ecrobia,urn:lsid:marinespecies.org:taxname:238104,NA,NA,Species,NA,reef_life_survey
@@ -2237,9 +2247,9 @@ Echinometridae,Odontophora,urn:lsid:marinespecies.org:taxname:179653,NA,NA,Famil
 Paracentrotus,Parechinidae,urn:lsid:marinespecies.org:taxname:123387,NA,NA,Genus,NA,reef_life_survey
 Eucidaris tribuloides,Eucidaris,urn:lsid:marinespecies.org:taxname:396741,NA,NA,Species,NA,reef_life_survey
 Cryptoconchus floridanus,Cryptoconchus,urn:lsid:marinespecies.org:taxname:386549,NA,NA,Species,NA,reef_life_survey
+Onchidoridoidea,Doridoidei,urn:lsid:marinespecies.org:taxname:246152,NA,NA,Superfamily,NA,reef_life_survey
+Chromodoridoidea,Doridoidei,urn:lsid:marinespecies.org:taxname:1370609,NA,NA,Superfamily,NA,reef_life_survey
 Tritoniidae,Tritonioidea,urn:lsid:marinespecies.org:taxname:183,NA,NA,Family,NA,reef_life_survey
-Corambidae,Onchidoridoidea,urn:lsid:marinespecies.org:taxname:10124,NA,NA,Family,NA,reef_life_survey
-Chromodorididae,Chromodoridoidea,urn:lsid:marinespecies.org:taxname:23003,NA,NA,Family,NA,reef_life_survey
 Chelidonura hirundinina,Chelidonura,urn:lsid:marinespecies.org:taxname:420528,NA,NA,Species,NA,reef_life_survey
 Bulla striata,Bulla,urn:lsid:marinespecies.org:taxname:138940,NA,NA,Species,NA,reef_life_survey
 Bulla gouldiana,Bulla,urn:lsid:marinespecies.org:taxname:510427,NA,NA,Species,NA,reef_life_survey
@@ -2375,6 +2385,7 @@ Amphibalaninae,Balanidae,urn:lsid:marinespecies.org:taxname:394026,NA,NA,Subfami
 Chthamalus,Chthamalidae,urn:lsid:marinespecies.org:taxname:106126,NA,NA,Genus,NA,reef_life_survey
 Chironominae,Chironomidae,urn:lsid:marinespecies.org:taxname:150869,NA,NA,Subfamily,NA,reef_life_survey
 Echinaster (Othilia) brasiliensis,Echinaster (Othilia),urn:lsid:marinespecies.org:taxname:178747,NA,NA,Species,NA,reef_life_survey
+Echinaster (Othilia) echinophorus,Echinaster (Othilia),urn:lsid:marinespecies.org:taxname:178748,NA,NA,Species,NA,reef_life_survey
 Astrophyton muricatum,Astrophyton,urn:lsid:marinespecies.org:taxname:243214,NA,NA,Species,NA,reef_life_survey
 Ophioderma,Ophiodermatidae,urn:lsid:marinespecies.org:taxname:123547,NA,NA,Genus,NA,reef_life_survey
 Ophiocoma,Ophiocomidae,urn:lsid:marinespecies.org:taxname:123592,NA,NA,Genus,NA,reef_life_survey
@@ -2388,9 +2399,9 @@ Tripneustes,Toxopneustidae,urn:lsid:marinespecies.org:taxname:206063,NA,NA,Genus
 Lytechinus,Toxopneustidae,urn:lsid:marinespecies.org:taxname:240777,NA,NA,Genus,NA,reef_life_survey
 Echinometra,Echinometridae,urn:lsid:marinespecies.org:taxname:179659,NA,NA,Genus,NA,reef_life_survey
 Paracentrotus gaimardi,Paracentrotus,urn:lsid:marinespecies.org:taxname:513432,NA,NA,Species,NA,reef_life_survey
+Corambidae,Onchidoridoidea,urn:lsid:marinespecies.org:taxname:10124,NA,NA,Family,NA,reef_life_survey
+Chromodorididae,Chromodoridoidea,urn:lsid:marinespecies.org:taxname:23003,NA,NA,Family,NA,reef_life_survey
 Tritoniinae,Tritoniidae,urn:lsid:marinespecies.org:taxname:1669234,NA,NA,Subfamily,NA,reef_life_survey
-Corambe,Corambidae,urn:lsid:marinespecies.org:taxname:137839,NA,NA,Genus,NA,reef_life_survey
-Chromodoridinae,Chromodorididae,urn:lsid:marinespecies.org:taxname:1370610,NA,NA,Subfamily,NA,reef_life_survey
 Ampullaceana,Peregrianini,urn:lsid:marinespecies.org:taxname:1288015,NA,NA,Genus,NA,reef_life_survey
 Pyramidella,Pyramidellini,urn:lsid:marinespecies.org:taxname:160041,NA,NA,Genus,NA,reef_life_survey
 Turbonilla toyatani,Turbonilla,urn:lsid:marinespecies.org:taxname:160091,NA,NA,Species,NA,reef_life_survey
@@ -2532,10 +2543,9 @@ Lytechinus variegatus,Lytechinus,urn:lsid:marinespecies.org:taxname:367850,NA,NA
 Lytechinus williamsi,Lytechinus,urn:lsid:marinespecies.org:taxname:422489,NA,NA,Species,NA,reef_life_survey
 Echinometra lucunter,Echinometra,urn:lsid:marinespecies.org:taxname:213380,NA,NA,Species,NA,reef_life_survey
 Echinometra viridis,Echinometra,urn:lsid:marinespecies.org:taxname:422493,NA,NA,Species,NA,reef_life_survey
+Corambe,Corambidae,urn:lsid:marinespecies.org:taxname:137839,NA,NA,Genus,NA,reef_life_survey
+Chromodoridinae,Chromodorididae,urn:lsid:marinespecies.org:taxname:1370610,NA,NA,Subfamily,NA,reef_life_survey
 Tritonia,Tritoniinae,urn:lsid:marinespecies.org:taxname:138580,NA,NA,Genus,NA,reef_life_survey
-Corambe obscura,Corambe,urn:lsid:marinespecies.org:taxname:139407,NA,NA,Species,NA,reef_life_survey
-Chromodoris,Chromodoridinae,urn:lsid:marinespecies.org:taxname:137782,NA,NA,Genus,NA,reef_life_survey
-Doriprismatica,Chromodoridinae,urn:lsid:marinespecies.org:taxname:558470,NA,NA,Genus,NA,reef_life_survey
 Ampullaceana balthica,Ampullaceana,urn:lsid:marinespecies.org:taxname:1288085,NA,NA,Species,NA,reef_life_survey
 Mercenaria mercenaria,Mercenaria,urn:lsid:marinespecies.org:taxname:141919,NA,NA,Species,NA,reef_life_survey
 Chione cancellata,Chione,urn:lsid:marinespecies.org:taxname:397040,NA,NA,Species,NA,reef_life_survey
@@ -2678,8 +2688,10 @@ Amphibalanus venustus,Amphibalanus,urn:lsid:marinespecies.org:taxname:421142,NA,
 Chironomus,Chironomini,urn:lsid:marinespecies.org:taxname:146802,NA,NA,Genus,NA,reef_life_survey
 Mellita,Mellitidae,urn:lsid:marinespecies.org:taxname:158064,NA,NA,Genus,NA,reef_life_survey
 Encope,Mellitidae,urn:lsid:marinespecies.org:taxname:415341,NA,NA,Genus,NA,reef_life_survey
-Chromodoris kempfi,Chromodoris,urn:lsid:marinespecies.org:taxname:558675,NA,NA,Species,NA,reef_life_survey
-Doriprismatica sedna,Doriprismatica,urn:lsid:marinespecies.org:taxname:597380,NA,NA,Species,NA,reef_life_survey
+Corambe obscura,Corambe,urn:lsid:marinespecies.org:taxname:139407,NA,NA,Species,NA,reef_life_survey
+Chromodoris,Chromodoridinae,urn:lsid:marinespecies.org:taxname:137782,NA,NA,Genus,NA,reef_life_survey
+Doriprismatica,Chromodoridinae,urn:lsid:marinespecies.org:taxname:558470,NA,NA,Genus,NA,reef_life_survey
+Neptunazurea,Chromodoridinae,urn:lsid:marinespecies.org:taxname:1845213,NA,NA,Genus,NA,reef_life_survey
 Cerastoderma edule,Cerastoderma,urn:lsid:marinespecies.org:taxname:138998,NA,NA,Species,NA,reef_life_survey
 Cerastoderma glaucum,Cerastoderma,urn:lsid:marinespecies.org:taxname:138999,NA,NA,Species,NA,reef_life_survey
 Cancrinae,Cancridae,urn:lsid:marinespecies.org:taxname:1629883,NA,NA,Subfamily,NA,reef_life_survey
@@ -2790,6 +2802,9 @@ Birubius,Phoxocephalinae,urn:lsid:marinespecies.org:taxname:468183,NA,NA,Genus,N
 Lysianopsis,Lysianassinae,urn:lsid:marinespecies.org:taxname:158035,NA,NA,Genus,NA,reef_life_survey
 Mellita quinquiesperforata,Mellita,urn:lsid:marinespecies.org:taxname:158065,NA,NA,Species,NA,reef_life_survey
 Encope emarginata,Encope,urn:lsid:marinespecies.org:taxname:513255,NA,NA,Species,NA,reef_life_survey
+Chromodoris kempfi,Chromodoris,urn:lsid:marinespecies.org:taxname:558675,NA,NA,Species,NA,reef_life_survey
+Doriprismatica sedna,Doriprismatica,urn:lsid:marinespecies.org:taxname:597380,NA,NA,Species,NA,reef_life_survey
+Neptunazurea kempfi,Neptunazurea,urn:lsid:marinespecies.org:taxname:1845214,NA,NA,Species,NA,reef_life_survey
 Romaleon,Cancrinae,urn:lsid:marinespecies.org:taxname:439215,NA,NA,Genus,NA,reef_life_survey
 Litocheira bispinosa,Litocheira,urn:lsid:marinespecies.org:taxname:441005,NA,NA,Species,NA,reef_life_survey
 Persephona,Ebaliinae,urn:lsid:marinespecies.org:taxname:158441,NA,NA,Genus,NA,reef_life_survey

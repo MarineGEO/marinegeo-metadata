@@ -262,6 +262,7 @@ Latreutes fucorum,urn:lsid:marinespecies.org:taxname:107519
 Thor amboinensis,urn:lsid:marinespecies.org:taxname:107534
 Brachycarpus biunguiculatus,urn:lsid:marinespecies.org:taxname:107611
 Ostracoda,urn:lsid:marinespecies.org:taxname:1078
+Naria turdus,urn:lsid:marinespecies.org:taxname:1079151
 Copepoda,urn:lsid:marinespecies.org:taxname:1080
 Cirripedia,urn:lsid:marinespecies.org:taxname:1082
 Calanoida,urn:lsid:marinespecies.org:taxname:1100
@@ -481,6 +482,7 @@ Mya,urn:lsid:marinespecies.org:taxname:138211
 Mytilus,urn:lsid:marinespecies.org:taxname:138228
 Smaragdia,urn:lsid:marinespecies.org:taxname:138255
 Octopus,urn:lsid:marinespecies.org:taxname:138268
+Pinna,urn:lsid:marinespecies.org:taxname:138352
 Odostomia,urn:lsid:marinespecies.org:taxname:138413
 Cymatium,urn:lsid:marinespecies.org:taxname:138426
 Alvania,urn:lsid:marinespecies.org:taxname:138439
@@ -654,6 +656,7 @@ Acanthostracion polygonium,urn:lsid:marinespecies.org:taxname:1577312
 Brachygenys chrysargyreum,urn:lsid:marinespecies.org:taxname:1577330
 Chthamalus fragilis,urn:lsid:marinespecies.org:taxname:157793
 Microprotopus raneyi,urn:lsid:marinespecies.org:taxname:157854
+Narcine brasiliensis,urn:lsid:marinespecies.org:taxname:157866
 Edotia triloba,urn:lsid:marinespecies.org:taxname:157885
 Erichsonella attenuata,urn:lsid:marinespecies.org:taxname:157887
 Bougainvillia carolinensis,urn:lsid:marinespecies.org:taxname:157917
@@ -838,11 +841,14 @@ Oreaster reticulatus,urn:lsid:marinespecies.org:taxname:178210
 Symploca,urn:lsid:marinespecies.org:taxname:178510
 Luidia senegalensis,urn:lsid:marinespecies.org:taxname:178641
 Echinaster brasiliensis,urn:lsid:marinespecies.org:taxname:178747
+Echinaster echinophorus,urn:lsid:marinespecies.org:taxname:178748
 Chordata,urn:lsid:marinespecies.org:taxname:1821
 Nannastacus inflatus,urn:lsid:marinespecies.org:taxname:182578
 Bithynia tentaculata,urn:lsid:marinespecies.org:taxname:182699
 Ascidiacea,urn:lsid:marinespecies.org:taxname:1839
 Ascidian,urn:lsid:marinespecies.org:taxname:1839
+Neptunazurea kempfi,urn:lsid:marinespecies.org:taxname:1845214
+Neoniphon vexillarius,urn:lsid:marinespecies.org:taxname:1904776
 Mycale senegalensis,urn:lsid:marinespecies.org:taxname:192581
 Modulidae,urn:lsid:marinespecies.org:taxname:196285
 Modulus,urn:lsid:marinespecies.org:taxname:196286
@@ -939,6 +945,7 @@ Paradexamine pacifica,urn:lsid:marinespecies.org:taxname:220766
 Botryocladia leptopoda,urn:lsid:marinespecies.org:taxname:220965
 Parhyale hawaiensis,urn:lsid:marinespecies.org:taxname:221362
 Lasaeidae,urn:lsid:marinespecies.org:taxname:222
+Cypraecassis testiculus,urn:lsid:marinespecies.org:taxname:224277
 Caenogastropoda,urn:lsid:marinespecies.org:taxname:224570
 Cerithium atratum,urn:lsid:marinespecies.org:taxname:224572
 Cerithium guinaicum,urn:lsid:marinespecies.org:taxname:224773
@@ -1161,6 +1168,7 @@ Acanthemblemaria aspera,urn:lsid:marinespecies.org:taxname:279443
 Acanthemblemaria chaplini,urn:lsid:marinespecies.org:taxname:279448
 Acanthemblemaria greenfieldi,urn:lsid:marinespecies.org:taxname:279451
 Acanthemblemaria maria,urn:lsid:marinespecies.org:taxname:279457
+Amphichthys cryptocentrus,urn:lsid:marinespecies.org:taxname:279590
 Anisotremus surinamensis,urn:lsid:marinespecies.org:taxname:279623
 Anisotremus virginicus,urn:lsid:marinespecies.org:taxname:279625
 Astrapogon puncticulatus,urn:lsid:marinespecies.org:taxname:279773
@@ -1507,6 +1515,7 @@ Anisogammarus pugettensis,urn:lsid:marinespecies.org:taxname:423136
 Caprella drepanochir,urn:lsid:marinespecies.org:taxname:423256
 Sipunculus phalloides,urn:lsid:marinespecies.org:taxname:424100
 Conus floridanus,urn:lsid:marinespecies.org:taxname:429079
+Conus cedonulli,urn:lsid:marinespecies.org:taxname:430327
 Madracis auretenra,urn:lsid:marinespecies.org:taxname:430664
 Caprella kroyeri,urn:lsid:marinespecies.org:taxname:430854
 Caprella tenuis,urn:lsid:marinespecies.org:taxname:430922
