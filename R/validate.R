@@ -743,26 +743,66 @@ if (!is.null(nr)) {
     )
   }
 
-  # V19. A scoped rule's predicate column is always `scientific_name`, so a
-  # scope reaching a table that has no such column resolves to an all-FALSE
-  # mask and passes cleanly forever. Three of the ranged tables have no
-  # scientific_name column, which is what makes this check mandatory rather
-  # than defensive.
+  # V19. A scoped rule needs one column to test its predicate on, in every
+  # table it reaches. Where the engine cannot resolve exactly one, the scope
+  # resolves to an all-FALSE mask and passes cleanly forever -- so this check
+  # is mandatory rather than defensive.
+  #
+  # Resolution mirrors .qc_taxon_column() in the package: the column bound to
+  # `observation_lookup$scientific_name` in column_lookups, falling back to a
+  # column literally named `scientific_name` where a table binds none (how a
+  # partner-coded table opts out of the registries). It is NOT keyed on
+  # `column_id == "scientific_name"`: the taxon ids are a family, and
+  # seagrass-leaf-monitoring-v1 carries the narrowed `_seagrass_only` id.
+  #
+  # More than one bound column is ambiguous, and the engine fails closed there
+  # too, so it fails here as well rather than being let through.
   if (!is.null(ds)) {
     assigned <- ds[!blank(ds$column_id), , drop = FALSE]
-    has_sci <- unique(ds$table_id[ds$column_name == "scientific_name"])
+
+    taxon_ids <- if (is.null(cl)) {
+      character(0)
+    } else {
+      unique(cl$column_id[
+        !blank(cl$registry_table) &
+          cl$registry_table == "observation_lookup" &
+          !blank(cl$registry_column) &
+          cl$registry_column == "scientific_name"
+      ])
+    }
+
+    # table_id -> the predicate column(s) the engine would resolve for it.
+    taxon_cols <- function(table_id) {
+      rows <- ds[ds$table_id == table_id, , drop = FALSE]
+      bound <- unique(rows$column_name[rows$column_id %in% taxon_ids])
+      if (length(bound) > 0) {
+        return(bound)
+      }
+      intersect("scientific_name", rows$column_name)
+    }
+
     for (i in scoped) {
       reach <- unique(
         assigned$table_id[assigned$column_id == nr$column_id[i]]
       )
-      missing_sci <- setdiff(reach, has_sci)
-      if (length(missing_sci) > 0) {
+      resolved <- vapply(reach, function(t) length(taxon_cols(t)), integer(1))
+
+      if (any(resolved == 0L)) {
         fail(
           "numeric_ranges: scoped rule '",
           nr_id[i],
-          "' reaches table(s) with no scientific_name column, where the scope ",
+          "' reaches table(s) with no scientific-name column, where the scope ",
           "can never match: ",
-          paste(sort(missing_sci), collapse = ", ")
+          paste(sort(reach[resolved == 0L]), collapse = ", ")
+        )
+      }
+      if (any(resolved > 1L)) {
+        fail(
+          "numeric_ranges: scoped rule '",
+          nr_id[i],
+          "' reaches table(s) binding more than one scientific-name column, ",
+          "where the engine cannot tell which to test: ",
+          paste(sort(reach[resolved > 1L]), collapse = ", ")
         )
       }
     }

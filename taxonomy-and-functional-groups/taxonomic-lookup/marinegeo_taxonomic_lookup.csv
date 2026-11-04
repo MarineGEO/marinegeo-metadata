@@ -190,6 +190,7 @@ urn:lsid:marinespecies.org:taxname:10193,Elasmobranchii,Class,10193,urn:lsid:mar
 urn:lsid:marinespecies.org:taxname:10194,Actinopterygii,Gigaclass,10194,urn:lsid:marinespecies.org:taxname:152352
 urn:lsid:marinespecies.org:taxname:10208,Orectolobiformes,Order,10208,urn:lsid:marinespecies.org:taxname:368410
 urn:lsid:marinespecies.org:taxname:10210,Carcharhiniformes,Order,10210,urn:lsid:marinespecies.org:taxname:368410
+urn:lsid:marinespecies.org:taxname:10215,Torpediniformes,Order,10215,urn:lsid:marinespecies.org:taxname:368409
 urn:lsid:marinespecies.org:taxname:10292,Elopiformes,Order,10292,urn:lsid:marinespecies.org:taxname:293496
 urn:lsid:marinespecies.org:taxname:10295,Anguilliformes,Order,10295,urn:lsid:marinespecies.org:taxname:293496
 urn:lsid:marinespecies.org:taxname:10297,Clupeiformes,Order,10297,urn:lsid:marinespecies.org:taxname:293496
@@ -1220,6 +1221,7 @@ urn:lsid:marinespecies.org:taxname:148715,Botrylloides violaceus,Species,148715,
 urn:lsid:marinespecies.org:taxname:148741,Cryptodira,Suborder,148741,urn:lsid:marinespecies.org:taxname:2689
 urn:lsid:marinespecies.org:taxname:148743,Asterozoa,Subphylum,148743,urn:lsid:marinespecies.org:taxname:1806
 urn:lsid:marinespecies.org:taxname:148744,Echinozoa,Subphylum,148744,urn:lsid:marinespecies.org:taxname:1806
+urn:lsid:marinespecies.org:taxname:148816,Narcinidae,Family,148816,urn:lsid:marinespecies.org:taxname:10215
 urn:lsid:marinespecies.org:taxname:149668,Mysida,Order,149668,urn:lsid:marinespecies.org:taxname:1090
 urn:lsid:marinespecies.org:taxname:149682,Megabalanus coccopoma,Species,149682,urn:lsid:marinespecies.org:taxname:106123
 urn:lsid:marinespecies.org:taxname:149854,Euechinoidea,Subclass,149854,urn:lsid:marinespecies.org:taxname:123082
@@ -1351,6 +1353,8 @@ urn:lsid:marinespecies.org:taxname:157220,Armandia maculata,Species,157220,urn:l
 urn:lsid:marinespecies.org:taxname:157483,Mediomastus californiensis,Species,157483,urn:lsid:marinespecies.org:taxname:129218
 urn:lsid:marinespecies.org:taxname:157793,Chthamalus fragilis,Species,157793,urn:lsid:marinespecies.org:taxname:106126
 urn:lsid:marinespecies.org:taxname:157854,Microprotopus raneyi,Species,157854,urn:lsid:marinespecies.org:taxname:101561
+urn:lsid:marinespecies.org:taxname:157865,Narcine,Genus,157865,urn:lsid:marinespecies.org:taxname:148816
+urn:lsid:marinespecies.org:taxname:157866,Narcine brasiliensis,Species,157866,urn:lsid:marinespecies.org:taxname:157865
 urn:lsid:marinespecies.org:taxname:157882,Edotia,Genus,157882,urn:lsid:marinespecies.org:taxname:118283
 urn:lsid:marinespecies.org:taxname:157885,Edotia triloba,Species,157885,urn:lsid:marinespecies.org:taxname:157882
 urn:lsid:marinespecies.org:taxname:157886,Erichsonella,Genus,157886,urn:lsid:marinespecies.org:taxname:118283
@@ -1620,6 +1624,7 @@ urn:lsid:marinespecies.org:taxname:178210,Oreaster reticulatus,Species,178210,ur
 urn:lsid:marinespecies.org:taxname:178510,Symploca,Genus,178510,urn:lsid:marinespecies.org:taxname:836365
 urn:lsid:marinespecies.org:taxname:178641,Luidia senegalensis,Species,178641,urn:lsid:marinespecies.org:taxname:123260
 urn:lsid:marinespecies.org:taxname:178747,Echinaster (Othilia) brasiliensis,Species,178747,urn:lsid:marinespecies.org:taxname:146068
+urn:lsid:marinespecies.org:taxname:178748,Echinaster (Othilia) echinophorus,Species,178748,urn:lsid:marinespecies.org:taxname:146068
 urn:lsid:marinespecies.org:taxname:179048,Charales,Order,179048,urn:lsid:marinespecies.org:taxname:146217
 urn:lsid:marinespecies.org:taxname:179049,Characeae,Family,179049,urn:lsid:marinespecies.org:taxname:1731727
 urn:lsid:marinespecies.org:taxname:179653,Echinometridae,Family,179653,urn:lsid:marinespecies.org:taxname:510604
@@ -1675,6 +1680,7 @@ urn:lsid:marinespecies.org:taxname:196950,Eatoniella,Genus,196950,urn:lsid:marin
 urn:lsid:marinespecies.org:taxname:203822,Stegastes,Genus,203822,urn:lsid:marinespecies.org:taxname:125553
 urn:lsid:marinespecies.org:taxname:203905,Priolepis,Genus,203905,urn:lsid:marinespecies.org:taxname:267094
 urn:lsid:marinespecies.org:taxname:203942,Lunella,Genus,203942,urn:lsid:marinespecies.org:taxname:225151
+urn:lsid:marinespecies.org:taxname:204021,Cypraecassis,Genus,204021,urn:lsid:marinespecies.org:taxname:224971
 urn:lsid:marinespecies.org:taxname:204051,Pterois,Genus,204051,urn:lsid:marinespecies.org:taxname:154410
 urn:lsid:marinespecies.org:taxname:204064,Gerres,Genus,204064,urn:lsid:marinespecies.org:taxname:151456
 urn:lsid:marinespecies.org:taxname:204078,Udotea,Genus,204078,urn:lsid:marinespecies.org:taxname:1635982
@@ -1809,6 +1815,7 @@ urn:lsid:marinespecies.org:taxname:220766,Paradexamine pacifica,Species,220766,u
 urn:lsid:marinespecies.org:taxname:220965,Botryocladia leptopoda,Species,220965,urn:lsid:marinespecies.org:taxname:144247
 urn:lsid:marinespecies.org:taxname:221177,Avrainvillea nigricans,Species,221177,urn:lsid:marinespecies.org:taxname:143819
 urn:lsid:marinespecies.org:taxname:221362,Parhyale hawaiensis,Species,221362,urn:lsid:marinespecies.org:taxname:101549
+urn:lsid:marinespecies.org:taxname:224277,Cypraecassis testiculus,Species,224277,urn:lsid:marinespecies.org:taxname:204021
 urn:lsid:marinespecies.org:taxname:224320,Fissurellideinae,Subfamily,224320,urn:lsid:marinespecies.org:taxname:111
 urn:lsid:marinespecies.org:taxname:224522,Pyramidellinae,Subfamily,224522,urn:lsid:marinespecies.org:taxname:162
 urn:lsid:marinespecies.org:taxname:224570,Caenogastropoda,Subclass,224570,urn:lsid:marinespecies.org:taxname:101
@@ -1875,7 +1882,7 @@ urn:lsid:marinespecies.org:taxname:242196,Euryalida,Order,242196,urn:lsid:marine
 urn:lsid:marinespecies.org:taxname:242203,Gorgonocephalinae,Subfamily,242203,urn:lsid:marinespecies.org:taxname:123203
 urn:lsid:marinespecies.org:taxname:243214,Astrophyton muricatum,Species,243214,urn:lsid:marinespecies.org:taxname:123583
 urn:lsid:marinespecies.org:taxname:245516,Ophioderma brevispinum,Species,245516,urn:lsid:marinespecies.org:taxname:123547
-urn:lsid:marinespecies.org:taxname:246038,Doridoidei,Infraorder,246038,urn:lsid:marinespecies.org:taxname:1829294
+urn:lsid:marinespecies.org:taxname:246038,Doridoidei,Infraorder,246038,urn:lsid:marinespecies.org:taxname:1052385
 urn:lsid:marinespecies.org:taxname:246152,Onchidoridoidea,Superfamily,246152,urn:lsid:marinespecies.org:taxname:246038
 urn:lsid:marinespecies.org:taxname:246153,Limoidea,Superfamily,246153,urn:lsid:marinespecies.org:taxname:1777
 urn:lsid:marinespecies.org:taxname:246229,Axiopsis,Genus,246229,urn:lsid:marinespecies.org:taxname:106798
@@ -1964,6 +1971,7 @@ urn:lsid:marinespecies.org:taxname:267781,Pseudopterogorgia,Genus,267781,urn:lsi
 urn:lsid:marinespecies.org:taxname:267790,Pterogorgia,Genus,267790,urn:lsid:marinespecies.org:taxname:1749535
 urn:lsid:marinespecies.org:taxname:267842,Solenastrea,Genus,267842,urn:lsid:marinespecies.org:taxname:266986
 urn:lsid:marinespecies.org:taxname:267860,Stephanocoenia,Genus,267860,urn:lsid:marinespecies.org:taxname:196098
+urn:lsid:marinespecies.org:taxname:268294,Amphichthys,Genus,268294,urn:lsid:marinespecies.org:taxname:714644
 urn:lsid:marinespecies.org:taxname:268319,Anisotremus,Genus,268319,urn:lsid:marinespecies.org:taxname:714648
 urn:lsid:marinespecies.org:taxname:268418,Astrapogon,Genus,268418,urn:lsid:marinespecies.org:taxname:267079
 urn:lsid:marinespecies.org:taxname:268472,Azurina,Genus,268472,urn:lsid:marinespecies.org:taxname:125553
@@ -2124,6 +2132,7 @@ urn:lsid:marinespecies.org:taxname:279443,Acanthemblemaria aspera,Species,279443
 urn:lsid:marinespecies.org:taxname:279448,Acanthemblemaria chaplini,Species,279448,urn:lsid:marinespecies.org:taxname:254882
 urn:lsid:marinespecies.org:taxname:279451,Acanthemblemaria greenfieldi,Species,279451,urn:lsid:marinespecies.org:taxname:254882
 urn:lsid:marinespecies.org:taxname:279457,Acanthemblemaria maria,Species,279457,urn:lsid:marinespecies.org:taxname:254882
+urn:lsid:marinespecies.org:taxname:279590,Amphichthys cryptocentrus,Species,279590,urn:lsid:marinespecies.org:taxname:268294
 urn:lsid:marinespecies.org:taxname:279623,Anisotremus surinamensis,Species,279623,urn:lsid:marinespecies.org:taxname:268319
 urn:lsid:marinespecies.org:taxname:279625,Anisotremus virginicus,Species,279625,urn:lsid:marinespecies.org:taxname:268319
 urn:lsid:marinespecies.org:taxname:279773,Astrapogon puncticulatus,Species,279773,urn:lsid:marinespecies.org:taxname:268418
@@ -2641,6 +2650,7 @@ urn:lsid:marinespecies.org:taxname:423136,Anisogammarus pugettensis,Species,4231
 urn:lsid:marinespecies.org:taxname:423256,Caprella drepanochir,Species,423256,urn:lsid:marinespecies.org:taxname:101430
 urn:lsid:marinespecies.org:taxname:424100,Sipunculus phalloides,Species,424100,urn:lsid:marinespecies.org:taxname:136031
 urn:lsid:marinespecies.org:taxname:429079,Conus floridanus,Species,429079,urn:lsid:marinespecies.org:taxname:137813
+urn:lsid:marinespecies.org:taxname:430327,Conus cedonulli,Species,430327,urn:lsid:marinespecies.org:taxname:137813
 urn:lsid:marinespecies.org:taxname:430451,Chevaliidae,Family,430451,urn:lsid:marinespecies.org:taxname:716534
 urn:lsid:marinespecies.org:taxname:430664,Madracis auretenra,Species,430664,urn:lsid:marinespecies.org:taxname:135125
 urn:lsid:marinespecies.org:taxname:430770,Caprellinae,Subfamily,430770,urn:lsid:marinespecies.org:taxname:101361
@@ -3023,6 +3033,7 @@ urn:lsid:marinespecies.org:taxname:1041959,Sertularioidea,Superfamily,1041959,ur
 urn:lsid:marinespecies.org:taxname:1042855,Hypanus,Genus,1042855,urn:lsid:marinespecies.org:taxname:105708
 urn:lsid:marinespecies.org:taxname:1042856,Hypanus americanus,Species,1042856,urn:lsid:marinespecies.org:taxname:1042855
 urn:lsid:marinespecies.org:taxname:1042858,Hypanus guttatus,Species,1042858,urn:lsid:marinespecies.org:taxname:1042855
+urn:lsid:marinespecies.org:taxname:1052385,Doridina,Suborder,1052385,urn:lsid:marinespecies.org:taxname:1762
 urn:lsid:marinespecies.org:taxname:1052447,Lepetellida,Order,1052447,urn:lsid:marinespecies.org:taxname:156485
 urn:lsid:marinespecies.org:taxname:1052448,Trochida,Order,1052448,urn:lsid:marinespecies.org:taxname:156485
 urn:lsid:marinespecies.org:taxname:1054108,Pisaniidae,Family,1054108,urn:lsid:marinespecies.org:taxname:382214
@@ -3068,6 +3079,7 @@ urn:lsid:marinespecies.org:taxname:1075318,Ophiocomoidea,Superfamily,1075318,urn
 urn:lsid:marinespecies.org:taxname:1077084,Ophionereidoidea,Superfamily,1077084,urn:lsid:marinespecies.org:taxname:1062667
 urn:lsid:marinespecies.org:taxname:1077097,Amphiuroidea,Superfamily,1077097,urn:lsid:marinespecies.org:taxname:196221
 urn:lsid:marinespecies.org:taxname:1079036,Ophiactoidea,Superfamily,1079036,urn:lsid:marinespecies.org:taxname:196221
+urn:lsid:marinespecies.org:taxname:1079151,Naria turdus,Species,1079151,urn:lsid:marinespecies.org:taxname:573905
 urn:lsid:marinespecies.org:taxname:1148652,Mytilidae incertae sedis,Subfamily,1148652,urn:lsid:marinespecies.org:taxname:211
 urn:lsid:marinespecies.org:taxname:1150154,Amusiini,Tribe,1150154,urn:lsid:marinespecies.org:taxname:393857
 urn:lsid:marinespecies.org:taxname:1258706,Amphithrax,Genus,1258706,urn:lsid:marinespecies.org:taxname:439056
@@ -3217,6 +3229,8 @@ urn:lsid:marinespecies.org:taxname:1843780,Clepticini,Tribe,1843780,urn:lsid:mar
 urn:lsid:marinespecies.org:taxname:1843798,Julidinae,Subfamily,1843798,urn:lsid:marinespecies.org:taxname:125541
 urn:lsid:marinespecies.org:taxname:1844755,Scarini,Tribe,1844755,urn:lsid:marinespecies.org:taxname:151787
 urn:lsid:marinespecies.org:taxname:1844756,Sparisomatini,Tribe,1844756,urn:lsid:marinespecies.org:taxname:151787
+urn:lsid:marinespecies.org:taxname:1845213,Neptunazurea,Genus,1845213,urn:lsid:marinespecies.org:taxname:1370610
+urn:lsid:marinespecies.org:taxname:1845214,Neptunazurea kempfi,Species,1845214,urn:lsid:marinespecies.org:taxname:1845213
 urn:lsid:marinespecies.org:taxname:1845968,Nacellida,Order,1845968,urn:lsid:marinespecies.org:taxname:382158
 urn:lsid:marinespecies.org:taxname:1848003,Engraulinae,Subfamily,1848003,urn:lsid:marinespecies.org:taxname:125465
 urn:lsid:marinespecies.org:taxname:1848465,Esocinae,Subfamily,1848465,urn:lsid:marinespecies.org:taxname:154207
@@ -3225,3 +3239,4 @@ urn:lsid:marinespecies.org:taxname:1849266,Tetraodontoidei,Suborder,1849266,urn:
 urn:lsid:marinespecies.org:taxname:1849267,Balistoidei,Suborder,1849267,urn:lsid:marinespecies.org:taxname:10332
 urn:lsid:marinespecies.org:taxname:1849276,Ogcocephaloidei,Suborder,1849276,urn:lsid:marinespecies.org:taxname:10316
 urn:lsid:marinespecies.org:taxname:1859206,Apogoniformes,Order,1859206,urn:lsid:marinespecies.org:taxname:293496
+urn:lsid:marinespecies.org:taxname:1904776,Neoniphon vexillarius,Species,1904776,urn:lsid:marinespecies.org:taxname:159391
