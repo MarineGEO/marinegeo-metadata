@@ -2000,6 +2000,7 @@ urn:lsid:marinespecies.org:taxname:270206,Paradiplogrammus,Genus,270206,urn:lsid
 urn:lsid:marinespecies.org:taxname:270239,Paranthias,Genus,270239,urn:lsid:marinespecies.org:taxname:1776907
 urn:lsid:marinespecies.org:taxname:270286,Pareques,Genus,270286,urn:lsid:marinespecies.org:taxname:125558
 urn:lsid:marinespecies.org:taxname:270763,Risor,Genus,270763,urn:lsid:marinespecies.org:taxname:267094
+urn:lsid:marinespecies.org:taxname:270800,Sanopus,Genus,270800,urn:lsid:marinespecies.org:taxname:714644
 urn:lsid:marinespecies.org:taxname:271005,Stygnobrotula,Genus,271005,urn:lsid:marinespecies.org:taxname:125503
 urn:lsid:marinespecies.org:taxname:271193,Urobatis,Genus,271193,urn:lsid:marinespecies.org:taxname:397229
 urn:lsid:marinespecies.org:taxname:271194,Urocampus,Genus,271194,urn:lsid:marinespecies.org:taxname:154405
@@ -2184,6 +2185,7 @@ urn:lsid:marinespecies.org:taxname:282084,Paranthias furcifer,Species,282084,urn
 urn:lsid:marinespecies.org:taxname:282139,Pareques acuminatus,Species,282139,urn:lsid:marinespecies.org:taxname:270286
 urn:lsid:marinespecies.org:taxname:282143,Pareques umbrosus,Species,282143,urn:lsid:marinespecies.org:taxname:270286
 urn:lsid:marinespecies.org:taxname:282620,Risor ruber,Species,282620,urn:lsid:marinespecies.org:taxname:270763
+urn:lsid:marinespecies.org:taxname:282658,Sanopus barbatus,Species,282658,urn:lsid:marinespecies.org:taxname:270800
 urn:lsid:marinespecies.org:taxname:282910,Stygnobrotula latebricola,Species,282910,urn:lsid:marinespecies.org:taxname:271005
 urn:lsid:marinespecies.org:taxname:283086,Urobatis jamaicensis,Species,283086,urn:lsid:marinespecies.org:taxname:271193
 urn:lsid:marinespecies.org:taxname:283090,Urocampus carinirostris,Species,283090,urn:lsid:marinespecies.org:taxname:271194
@@ -2427,6 +2429,7 @@ urn:lsid:marinespecies.org:taxname:404078,Tedania ignis,Species,404078,urn:lsid:
 urn:lsid:marinespecies.org:taxname:406356,Calotrophon ostrearum,Species,406356,urn:lsid:marinespecies.org:taxname:391163
 urn:lsid:marinespecies.org:taxname:407876,Murexsul oxytatus,Species,407876,urn:lsid:marinespecies.org:taxname:397215
 urn:lsid:marinespecies.org:taxname:408934,Neogonodactylus,Genus,408934,urn:lsid:marinespecies.org:taxname:196127
+urn:lsid:marinespecies.org:taxname:408938,Neogonodactylus bredini,Species,408938,urn:lsid:marinespecies.org:taxname:408934
 urn:lsid:marinespecies.org:taxname:408942,Neogonodactylus curacaoensis,Species,408942,urn:lsid:marinespecies.org:taxname:408934
 urn:lsid:marinespecies.org:taxname:409037,Lysiosquilla scabricauda,Species,409037,urn:lsid:marinespecies.org:taxname:136100
 urn:lsid:marinespecies.org:taxname:410856,Babelomurex mansfieldi,Species,410856,urn:lsid:marinespecies.org:taxname:224949

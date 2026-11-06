@@ -1091,6 +1091,7 @@ Synodontinae,Synodontidae,urn:lsid:marinespecies.org:taxname:151856,NA,NA,Subfam
 Stygnobrotula latebricola,Stygnobrotula,urn:lsid:marinespecies.org:taxname:282910,NA,NA,Species,NA,reef_life_survey
 Opsanus,Batrachoidinae,urn:lsid:marinespecies.org:taxname:158781,NA,NA,Genus,NA,reef_life_survey
 Amphichthys,Batrachoidinae,urn:lsid:marinespecies.org:taxname:268294,NA,NA,Genus,NA,reef_life_survey
+Sanopus,Batrachoidinae,urn:lsid:marinespecies.org:taxname:270800,NA,NA,Genus,NA,reef_life_survey
 Ogcocephalus,Ogcocephalidae,urn:lsid:marinespecies.org:taxname:159191,NA,NA,Genus,NA,reef_life_survey
 Gobiesox,Gobiesocinae,urn:lsid:marinespecies.org:taxname:158785,NA,NA,Genus,NA,reef_life_survey
 Menidia,Menidiinae,urn:lsid:marinespecies.org:taxname:159225,NA,NA,Genus,NA,reef_life_survey
@@ -1687,6 +1688,7 @@ Anchoa mitchilli,Anchoa,urn:lsid:marinespecies.org:taxname:158699,NA,NA,Species,
 Synodus,Synodontinae,urn:lsid:marinespecies.org:taxname:125686,NA,NA,Genus,NA,reef_life_survey
 Opsanus tau,Opsanus,urn:lsid:marinespecies.org:taxname:158782,NA,NA,Species,NA,reef_life_survey
 Amphichthys cryptocentrus,Amphichthys,urn:lsid:marinespecies.org:taxname:279590,NA,NA,Species,NA,reef_life_survey
+Sanopus barbatus,Sanopus,urn:lsid:marinespecies.org:taxname:282658,NA,NA,Species,NA,reef_life_survey
 Ogcocephalus vespertilio,Ogcocephalus,urn:lsid:marinespecies.org:taxname:159195,NA,NA,Species,NA,reef_life_survey
 Gobiesox strumosus,Gobiesox,urn:lsid:marinespecies.org:taxname:158787,NA,NA,Species,NA,reef_life_survey
 Menidia beryllina,Menidia,urn:lsid:marinespecies.org:taxname:159227,NA,NA,Species,NA,reef_life_survey
@@ -2377,6 +2379,7 @@ Neomysis,Neomysini,urn:lsid:marinespecies.org:taxname:119888,NA,NA,Genus,NA,reef
 Lysiosquilla scabricauda,Lysiosquilla,urn:lsid:marinespecies.org:taxname:409037,NA,NA,Species,NA,reef_life_survey
 Lysiosquilla glabriuscula,Lysiosquilla,urn:lsid:marinespecies.org:taxname:1579720,NA,NA,Species,NA,reef_life_survey
 Gonodactylus chiragra,Gonodactylus,urn:lsid:marinespecies.org:taxname:210242,NA,NA,Species,NA,reef_life_survey
+Neogonodactylus bredini,Neogonodactylus,urn:lsid:marinespecies.org:taxname:408938,NA,NA,Species,NA,reef_life_survey
 Neogonodactylus curacaoensis,Neogonodactylus,urn:lsid:marinespecies.org:taxname:408942,NA,NA,Species,NA,reef_life_survey
 Pseudosquilla ciliata,Pseudosquilla,urn:lsid:marinespecies.org:taxname:210232,NA,NA,Species,NA,reef_life_survey
 Balaninae,Balanidae,urn:lsid:marinespecies.org:taxname:106073,NA,NA,Subfamily,NA,reef_life_survey
