@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T20:13:04Z",
+  "generated_at": "2026-11-06T13:45:36Z",
   "generator": "R/generate-metadata-dist.R",
   "bundles": {
     "qc-metadata": {
@@ -243,11 +243,11 @@
     },
     "taxonomy": {
       "path": "dist/taxonomy.json",
-      "sha256": "819a825b55142b03df77df9e5f1a3a8162b4cc887cf8a2431604d2d0aac828ea",
-      "bytes": 1682897,
+      "sha256": "c44b04ff1c29d22a58b1af5b93804f7acd89ebb2ace2219c2b9d18639d5f4a56",
+      "bytes": 1684303,
       "tables": {
         "observation_lookup": {
-          "rows": 1705,
+          "rows": 1708,
           "columns": [
             {
               "name": "scientific_name",
@@ -260,7 +260,7 @@
           ]
         },
         "taxonomic_lookup": {
-          "rows": 3241,
+          "rows": 3244,
           "columns": [
             {
               "name": "scientific_id",
@@ -285,7 +285,7 @@
           ]
         },
         "nested_labelsets": {
-          "rows": 5040,
+          "rows": 5043,
           "columns": [
             {
               "name": "from",
@@ -391,10 +391,10 @@
     "taxonomy-and-functional-groups/nested-labelsets/fouling_cover.csv": "3111d067413c0dd8d2f0a003d12e121485ad53d29af3d1f144e9b36a8320f803",
     "taxonomy-and-functional-groups/nested-labelsets/oyster_composition.csv": "d3741ee45d0539aa7c3a1ef4f44aafb0731926ebf8fb2257d5a9c804446b4d18",
     "taxonomy-and-functional-groups/nested-labelsets/oyster_density.csv": "26f5909a13262af68a3f712190f04887484238a1ca4bc7955650228a0e0491bf",
-    "taxonomy-and-functional-groups/nested-labelsets/reef_life_survey.csv": "1f58c556aeb106a314e6c1640f19c1489761ac4dafdcf0824171ee23105a3336",
+    "taxonomy-and-functional-groups/nested-labelsets/reef_life_survey.csv": "6cd224c480fe6ebced57093722c353881f4fd953f2b1e9b3b40b9ffec49c56b5",
     "taxonomy-and-functional-groups/nested-labelsets/vegetation.csv": "26c12e36a3f1f884340d6ad2ed500724a6300199f8f06ded20493881d59aa3f2",
-    "taxonomy-and-functional-groups/observation-lookup/marinegeo_observation_ids.csv": "1a9e6a14c2796b8a90b4184f3bce7fb2cc387b7943bd9d1713fd5f080136c1d9",
-    "taxonomy-and-functional-groups/taxonomic-lookup/marinegeo_taxonomic_lookup.csv": "884a1112d667a15ac2ea398ff29e1195d2f575b9cf683f4186fa82851acb9066",
+    "taxonomy-and-functional-groups/observation-lookup/marinegeo_observation_ids.csv": "8d7ff4834aa19eb7320d874473adeb9593d22029a253f89fe3d7100cd282ef3a",
+    "taxonomy-and-functional-groups/taxonomic-lookup/marinegeo_taxonomic_lookup.csv": "b7a2e39b3becbecf6c83d972698179425b18de125982416b9982d8af365f97f0",
     "marinegeo_data_index.csv": "98127b378055723624aa177871f59f33bd9b6b643cf1a11b37cfebb3506ab563"
   }
 }

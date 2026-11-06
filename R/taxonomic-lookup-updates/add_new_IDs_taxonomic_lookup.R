@@ -38,4 +38,9 @@ taxa_df_updated <- bind_rows(
   arrange(id) %>%
   distinct()
 
+# Cidaroidea - subclass and superfamily accepted
+taxa_df_updated %>%
+  count(name) %>%
+  filter(n > 1)
+
 write_csv(taxa_df_updated, "taxonomy-and-functional-groups/taxonomic-lookup/marinegeo_taxonomic_lookup.csv")
