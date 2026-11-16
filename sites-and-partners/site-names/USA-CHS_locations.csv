@@ -1,2 +1,5 @@
 partner_code,site_code,site_name,habitat,latitude,longitude
 USA-CHS,FBO-001,Folly Beach Oyster,oyster,NA,NA
+USA-CHS,FBA-001,Folly Beach,sandy beach,NA,NA
+USA-CHS,SCM-001,Sunset Cay Marina,artificial,NA,NA
+USA-CHS,DTD-001,Downtown Dock,atrificial,NA,NA
