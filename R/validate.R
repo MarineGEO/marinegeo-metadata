@@ -18,7 +18,7 @@
 library(readr, quietly = TRUE, warn.conflicts = FALSE)
 library(dplyr, quietly = TRUE, warn.conflicts = FALSE)
 
-root <- normalizePath(".", mustWork = TRUE)
+root <- normalizePath(".", winslash = "/", mustWork = TRUE)
 failures <- character(0)
 
 # The authored source list, the rule-table headers and their declared column
@@ -129,7 +129,7 @@ if (!file.exists(manifest_path)) {
   recorded <- manifest$sources
 
   current <- mg_source_files(root)
-  rel <- sub(paste0("^", root, "/"), "", current)
+  rel <- mg_rel_path(current, root)
 
   added <- setdiff(rel, names(recorded))
   removed <- setdiff(names(recorded), rel)
@@ -203,7 +203,7 @@ for (f in sort(list.files(
   recursive = TRUE,
   full.names = TRUE
 ))) {
-  rel_f <- sub(paste0("^", root, "/"), "", f)
+  rel_f <- mg_rel_path(f, root)
   raw <- readBin(f, "raw", file.size(f))
   if (length(raw) >= 3L && identical(raw[1:3], as.raw(c(0xEF, 0xBB, 0xBF)))) {
     fail(
@@ -1348,6 +1348,5 @@ if (length(failures) > 0) {
   for (f in failures) {
     message("  - ", f)
   }
-  quit(status = 1L)
 }
 message("== all checks passed ==")

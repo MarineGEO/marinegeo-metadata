@@ -6,6 +6,20 @@
 # the first time a directory is added, and a source missing from the manifest is
 # a source whose edits never reach dist/.
 
+# Path relative to the repo root, with `/` separators on every platform, so the
+# manifest's `sources` keys are portable. A literal prefix strip, not a regex:
+# on Windows `root` contains backslashes, which a regex reads as escapes and
+# so silently fails to match, leaving absolute paths in the manifest.
+mg_rel_path <- function(path, root) {
+  path <- gsub("\\", "/", path, fixed = TRUE)
+  prefix <- paste0(gsub("\\", "/", root, fixed = TRUE), "/")
+  ifelse(
+    startsWith(path, prefix),
+    substring(path, nchar(prefix) + 1L),
+    path
+  )
+}
+
 mg_source_files <- function(root) {
   c(
     list.files(
