@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T13:45:36Z",
+  "generated_at": "2026-11-17T21:50:36Z",
   "generator": "R/generate-metadata-dist.R",
   "bundles": {
     "qc-metadata": {
@@ -145,11 +145,11 @@
     },
     "sites": {
       "path": "dist/sites.json",
-      "sha256": "c190b4d2d80d60b87308bbdba0260a593b7947635d879e3be4dfd9eb770de832",
-      "bytes": 53494,
+      "sha256": "6bba1b217f9585ff84ad608e19825bdc15c984df3d28b8257f27dec1c1da1600",
+      "bytes": 54169,
       "tables": {
         "partner_codes": {
-          "rows": 72,
+          "rows": 73,
           "columns": [
             {
               "name": "partner_code",
@@ -174,7 +174,7 @@
           ]
         },
         "site_codes": {
-          "rows": 228,
+          "rows": 232,
           "columns": [
             {
               "name": "partner_code",
@@ -364,7 +364,7 @@
     "table-metadata/numeric-ranges/oyster-reef-monitoring_numeric-ranges.csv": "8891db027a577bd93bdd0f3903d70289d6e028309edc3d08b6dccd682050d502",
     "table-metadata/numeric-ranges/reef-life-survey_numeric-ranges.csv": "16966871e3171c6e7033688ba8b92abd14bb438f6cb99ad70734da2be99e4c1b",
     "table-metadata/numeric-ranges/seagrass-monitoring_numeric-ranges.csv": "8ca11c25f73bbfe30967d1238e44bf2283fd4ec30812fc977e8e1779ce6df6d8",
-    "sites-and-partners/partner-codes/partners.csv": "a927750dc93aab5c202fb9bf8d8ba92408edf1a76232e55071b332390fc5aabc",
+    "sites-and-partners/partner-codes/partners.csv": "836a397546cf4c55148d73f495833569c1a72327a008ed853ff08e3f336b3937",
     "sites-and-partners/site-names/3M_partners_locations.csv": "8cf0733171468bfc75c3bcc95f3fb99efb5c40fe22241c8e2722d925c22e83fb",
     "sites-and-partners/site-names/BLZ-CBC_locations.csv": "f65b903241bbb9e730ad295ced90efa4d76a1b9a964d73ffff6d60e6ab914a44",
     "sites-and-partners/site-names/BRA-SSC_locations.csv": "e77c340c3eecb01129e1f71186ba05b60f48891bf26e55177b7dfc3a5d4191b9",
@@ -381,6 +381,7 @@
     "sites-and-partners/site-names/project-partners_locations.csv": "7bb94c333d475a62ebe2a1f19d875adc0f39012b66ecd5adae1ccc4aa78588bc",
     "sites-and-partners/site-names/SAU-RSK_locations.csv": "79218e024d7894ac5d3835f90d82a42635aca3a8684081553e2ff2293d372f5a",
     "sites-and-partners/site-names/USA-ALD_locations.csv": "2f304b13d0e404a06b567bbb7b25ae726fe83b2407556e89c9ad5820e06267c5",
+    "sites-and-partners/site-names/USA-CHS_locations.csv": "b97234b23ac13e52ed8df27174b7a24bfec8543e9657a7c2b747ab451282c867",
     "sites-and-partners/site-names/USA-IRL_locations.csv": "0b4d23fc2328b884a52702d55bfa25f776ad5feeee46007faae6db3dbe4f3bbe",
     "sites-and-partners/site-names/USA-LIS_locations.csv": "9253d703be2b89b1bd8b3470688a1c1043df3bb04403a3165b26f6b7c8cb87c1",
     "sites-and-partners/site-names/USA-MDA_locations.csv": "dde00e1c9f7bd3dd5f9c62b92d6846a4cedd2ec72c997cb745b6201d3b7dc79e",

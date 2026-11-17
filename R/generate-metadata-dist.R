@@ -18,7 +18,7 @@ suppressPackageStartupMessages({
   library(readr)
 })
 
-root <- normalizePath(".", mustWork = TRUE)
+root <- normalizePath(".", winslash = "/", mustWork = TRUE)
 stopifnot(dir.exists(file.path(root, "table-metadata")))
 
 # The authored source list, the rule-table headers and their declared column
@@ -91,7 +91,7 @@ check_utf8 <- function(paths) {
       line <- sum(raw[seq_len(offset)] == as.raw(10)) + 1L
       bad[[length(bad) + 1L]] <- sprintf(
         "  %s (line %d, byte offset %d, value 0x%s -- '%s' in Latin-1)",
-        sub(paste0("^", root, "/"), "", p),
+        mg_rel_path(p, root),
         line,
         offset,
         format(raw[offset]),
@@ -129,7 +129,7 @@ check_bom <- function(paths, fatal) {
     },
     logical(1)
   )
-  found <- sub(paste0("^", root, "/"), "", paths[has_bom])
+  found <- mg_rel_path(paths[has_bom], root)
   if (length(found) == 0) {
     return(invisible(NULL))
   }
@@ -267,8 +267,13 @@ as_records <- function(d) {
   )
 }
 
+# Written in binary mode so lines end in LF on every platform. On Windows a
+# text-mode connection writes CRLF, the manifest then hashes those bytes, and
+# git (eol=lf) commits different bytes than the sha256/bytes it records.
 write_json_file <- function(txt, path) {
-  writeLines(txt, path)
+  con <- file(path, open = "wb")
+  on.exit(close(con))
+  writeLines(txt, con, sep = "\n")
   invisible(path)
 }
 
@@ -334,7 +339,7 @@ for (bname in names(bundles)) {
 source_files <- all_sources
 sources <- stats::setNames(
   lapply(source_files, sha),
-  sub(paste0("^", root, "/"), "", source_files)
+  mg_rel_path(source_files, root)
 )
 
 manifest <- list(
