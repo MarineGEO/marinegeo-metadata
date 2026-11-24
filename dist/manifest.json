@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T15:15:05Z",
+  "generated_at": "2026-11-24T15:30:01Z",
   "generator": "R/generate-metadata-dist.R",
   "bundles": {
     "qc-metadata": {
@@ -243,11 +243,11 @@
     },
     "taxonomy": {
       "path": "dist/taxonomy.json",
-      "sha256": "da25ce0a4482d8f5c9284390ff19a34527950aabd64c5d13b8a682ab3c466610",
-      "bytes": 1686098,
+      "sha256": "fc919ec5936eec216927167cdc62dfe39239c74b7da48e9706d1006a9e199e29",
+      "bytes": 1686426,
       "tables": {
         "observation_lookup": {
-          "rows": 1727,
+          "rows": 1731,
           "columns": [
             {
               "name": "scientific_name",
@@ -394,7 +394,7 @@
     "taxonomy-and-functional-groups/nested-labelsets/oyster_density.csv": "26f5909a13262af68a3f712190f04887484238a1ca4bc7955650228a0e0491bf",
     "taxonomy-and-functional-groups/nested-labelsets/reef_life_survey.csv": "6cd224c480fe6ebced57093722c353881f4fd953f2b1e9b3b40b9ffec49c56b5",
     "taxonomy-and-functional-groups/nested-labelsets/vegetation.csv": "26c12e36a3f1f884340d6ad2ed500724a6300199f8f06ded20493881d59aa3f2",
-    "taxonomy-and-functional-groups/observation-lookup/marinegeo_observation_ids.csv": "33bff8c6d0be076d22b98558ffca29a92a2b4301a325271059acac78586c98c4",
+    "taxonomy-and-functional-groups/observation-lookup/marinegeo_observation_ids.csv": "1b4d5f226fa46d853e96be299b0f35bf7bceb66a9e234f63ea427d0bbd27844c",
     "taxonomy-and-functional-groups/taxonomic-lookup/marinegeo_taxonomic_lookup.csv": "b7a2e39b3becbecf6c83d972698179425b18de125982416b9982d8af365f97f0",
     "marinegeo_data_index.csv": "260141ffcd928955dc60de0098c7870734c294d52dd74376bcae6d7ccbfee038"
   }

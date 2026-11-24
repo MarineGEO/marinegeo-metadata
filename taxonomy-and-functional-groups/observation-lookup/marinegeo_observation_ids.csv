@@ -1,4 +1,8 @@
 scientific_name,scientific_id
+brown filamentous algae,FUCNTIONAL:BROWN_FILAMENTOUS_ALGAE
+green spherical algae,FUCNTIONAL:GREEN_SPHERICAL_ALGAE
+sand,FUCNTIONAL:SAND
+turf algae,FUCNTIONAL:TURF_ALGAE
 green calcareous algae,FUNCIONAL:GREEN_CALCAREOUS_ALGAE
 algae,FUNCTIONAL:ALGAE
 turf,FUNCTIONAL:ALGAL_TURF
