@@ -1,4 +1,5 @@
 scientific_name,scientific_id
+green calcareous algae,FUNCIONAL:GREEN_CALCAREOUS_ALGAE
 algae,FUNCTIONAL:ALGAE
 turf,FUNCTIONAL:ALGAL_TURF
 anemone,FUNCTIONAL:ANEMONE
@@ -66,6 +67,7 @@ red algae,FUNCTIONAL:RED_ALGAE
 red branching macroalgae,FUNCTIONAL:RED_BRANCHING_MACROALGAE
 red_crust,FUNCTIONAL:RED_CRUST_ALGAE
 red_alg,FUNCTIONAL:RED_FLESHY_ALGAE
+Rhodolith,FUNCTIONAL:RHODOLITH
 rock,FUNCTIONAL:ROCK
 sab_poly,FUNCTIONAL:SABELLIDS
 unidentified sav,FUNCTIONAL:SAV
@@ -74,6 +76,7 @@ sediment,FUNCTIONAL:SEDIMENT
 sed,FUNCTIONAL:SEDIMENT
 shell hash,FUNCTIONAL:SHELL_HASH
 shell hash (gravel texture),FUNCTIONAL:SHELL_HASH_GRAVEL
+shrimp burrow,FUNCTIONAL:SHRIMP_BURROW
 A_S,FUNCTIONAL:SOLITARY_ASCIDIANS
 sol_asci,FUNCTIONAL:SOLITARY_ASCIDIANS
 sponge,FUNCTIONAL:SPONGE
@@ -81,6 +84,7 @@ spg,FUNCTIONAL:SPONGE
 amphipod tubes,FUNCTIONAL:TUBE_BUILDING_AMPHIPODS
 Amp,FUNCTIONAL:TUBE_BUILDING_AMPHIPODS
 tube_amp,FUNCTIONAL:TUBE_BUILDING_AMPHIPODS
+tube worms,FUNCTIONAL:TUBE_WORMS
 Tunicate,FUNCTIONAL:TUNICATES
 Aiptasia pallida,UNDEFINED:AIPTASIA_PALLIDA
 Amphibalanus (dead),UNDEFINED:AMPHIBALANUS_DEAD
@@ -306,6 +310,7 @@ Bougainvillia,urn:lsid:marinespecies.org:taxname:117015
 Obelia,urn:lsid:marinespecies.org:taxname:117034
 Eudendrium,urn:lsid:marinespecies.org:taxname:117093
 Sertularia,urn:lsid:marinespecies.org:taxname:117234
+Obelia longissima,urn:lsid:marinespecies.org:taxname:117389
 Eudendrium carneum,urn:lsid:marinespecies.org:taxname:117545
 Kirchenpaueria halecioides,urn:lsid:marinespecies.org:taxname:117673
 Chironomidae,urn:lsid:marinespecies.org:taxname:118100
@@ -540,6 +545,7 @@ Acanthophora,urn:lsid:marinespecies.org:taxname:143900
 Digenea,urn:lsid:marinespecies.org:taxname:143909
 Laurencia,urn:lsid:marinespecies.org:taxname:143914
 Chaetomorpha,urn:lsid:marinespecies.org:taxname:143995
+Cladophora,urn:lsid:marinespecies.org:taxname:143996
 Amphiroa,urn:lsid:marinespecies.org:taxname:144003
 Jania,urn:lsid:marinespecies.org:taxname:144012
 Lithothamnion,urn:lsid:marinespecies.org:taxname:144018
@@ -555,6 +561,7 @@ Sargassum,urn:lsid:marinespecies.org:taxname:144132
 Pterocladia,urn:lsid:marinespecies.org:taxname:144136
 Gracilaria,urn:lsid:marinespecies.org:taxname:144188
 Champia,urn:lsid:marinespecies.org:taxname:144237
+Dictyosphaeria,urn:lsid:marinespecies.org:taxname:144265
 Valonia,urn:lsid:marinespecies.org:taxname:144267
 Ventricaria,urn:lsid:marinespecies.org:taxname:144267
 Ulva,urn:lsid:marinespecies.org:taxname:144296
@@ -575,6 +582,7 @@ Lithophyllum incrustans,urn:lsid:marinespecies.org:taxname:145152
 Dasycladus vermicularis,urn:lsid:marinespecies.org:taxname:145301
 Dictyota dichotoma,urn:lsid:marinespecies.org:taxname:145367
 Lobophora variegata,urn:lsid:marinespecies.org:taxname:145381
+Padina gymnospora,urn:lsid:marinespecies.org:taxname:145384
 Padina pavonica,urn:lsid:marinespecies.org:taxname:145385
 Ectocarpus siliculosus,urn:lsid:marinespecies.org:taxname:145410
 Fucus serratus,urn:lsid:marinespecies.org:taxname:145546
@@ -586,6 +594,7 @@ Halophila stipulacea,urn:lsid:marinespecies.org:taxname:145714
 Cymodocea nodosa,urn:lsid:marinespecies.org:taxname:145793
 Posidonia oceanica,urn:lsid:marinespecies.org:taxname:145794
 Colpomenia sinuosa,urn:lsid:marinespecies.org:taxname:145857
+Hydroclathrus clathratus,urn:lsid:marinespecies.org:taxname:145861
 Valonia utricularis,urn:lsid:marinespecies.org:taxname:145884
 Ulothrix speciosa,urn:lsid:marinespecies.org:taxname:145930
 Percursaria percursa,urn:lsid:marinespecies.org:taxname:145979
@@ -643,11 +652,13 @@ Agathistoma fasciatum,urn:lsid:marinespecies.org:taxname:1557229
 Neritimorpha,urn:lsid:marinespecies.org:taxname:156484
 Anadara transversa,urn:lsid:marinespecies.org:taxname:156734
 Anomia simplex,urn:lsid:marinespecies.org:taxname:156737
+Laevicardium mortoni,urn:lsid:marinespecies.org:taxname:156782
 Gemma gemma,urn:lsid:marinespecies.org:taxname:156803
 Argopecten irradians,urn:lsid:marinespecies.org:taxname:156817
 Geukensia demissa,urn:lsid:marinespecies.org:taxname:156859
 Ischadium recurvum,urn:lsid:marinespecies.org:taxname:156861
 Mytilopsis leucophaeata,urn:lsid:marinespecies.org:taxname:156887
+Tagelus divisus,urn:lsid:marinespecies.org:taxname:156999
 Tagelus plebeius,urn:lsid:marinespecies.org:taxname:157001
 Aonides mayaguezensis,urn:lsid:marinespecies.org:taxname:157179
 Armandia maculata,urn:lsid:marinespecies.org:taxname:157220
@@ -680,6 +691,7 @@ Crangon septemspinosa,urn:lsid:marinespecies.org:taxname:158355
 Hippolyte pleuracantha,urn:lsid:marinespecies.org:taxname:158360
 Hippolyte zostericola,urn:lsid:marinespecies.org:taxname:158361
 Lysmata wurdemanni,urn:lsid:marinespecies.org:taxname:158365
+Palaemonetes vulgaris,urn:lsid:marinespecies.org:taxname:158371
 Eurypanopeus depressus,urn:lsid:marinespecies.org:taxname:158416
 Hexapanopeus angustifrons,urn:lsid:marinespecies.org:taxname:158424
 Mithrax,urn:lsid:marinespecies.org:taxname:158428
@@ -872,8 +884,10 @@ Millepora,urn:lsid:marinespecies.org:taxname:205902
 Menippe,urn:lsid:marinespecies.org:taxname:205910
 Drupa,urn:lsid:marinespecies.org:taxname:206126
 Syringodium,urn:lsid:marinespecies.org:taxname:206309
+Chione,urn:lsid:marinespecies.org:taxname:206343
 Porites,urn:lsid:marinespecies.org:taxname:206485
 Paradexamine,urn:lsid:marinespecies.org:taxname:206577
+Turbinaria,urn:lsid:marinespecies.org:taxname:206630
 Santia,urn:lsid:marinespecies.org:taxname:206653
 Meandrina,urn:lsid:marinespecies.org:taxname:206740
 Thalassia,urn:lsid:marinespecies.org:taxname:206854
@@ -971,6 +985,7 @@ Chaetodon sedentarius,urn:lsid:marinespecies.org:taxname:234107
 Testudinalia testudinalis,urn:lsid:marinespecies.org:taxname:234208
 Ulva intestinalis,urn:lsid:marinespecies.org:taxname:234471
 Alitta succinea,urn:lsid:marinespecies.org:taxname:234850
+Rhizophora mangle,urn:lsid:marinespecies.org:taxname:235094
 Gracilaria vermiculophylla,urn:lsid:marinespecies.org:taxname:236157
 Apolochus picadurus,urn:lsid:marinespecies.org:taxname:236496
 Caprella scaura,urn:lsid:marinespecies.org:taxname:236551
@@ -1085,6 +1100,7 @@ Syngnathus scovelli,urn:lsid:marinespecies.org:taxname:275232
 Chilomycterus antennatus,urn:lsid:marinespecies.org:taxname:275239
 Chilomycterus antillarum,urn:lsid:marinespecies.org:taxname:275240
 Sphoeroides greeleyi,urn:lsid:marinespecies.org:taxname:275276
+Opsanus beta,urn:lsid:marinespecies.org:taxname:275645
 Haemulon album,urn:lsid:marinespecies.org:taxname:275721
 Haemulon carbonarium,urn:lsid:marinespecies.org:taxname:275724
 Haemulon chrysargyreum,urn:lsid:marinespecies.org:taxname:275725
@@ -1447,6 +1463,7 @@ Pinna carnea,urn:lsid:marinespecies.org:taxname:420742
 Ctenoides scaber,urn:lsid:marinespecies.org:taxname:420747
 Lima caribaea,urn:lsid:marinespecies.org:taxname:420749
 Chama sarda,urn:lsid:marinespecies.org:taxname:420819
+Chione elevata,urn:lsid:marinespecies.org:taxname:420932
 Sphenia fragilis,urn:lsid:marinespecies.org:taxname:420973
 Bispira brunnea,urn:lsid:marinespecies.org:taxname:421069
 Branchiomma bairdi,urn:lsid:marinespecies.org:taxname:421070
@@ -1494,6 +1511,7 @@ Eurypanopeus turgidus,urn:lsid:marinespecies.org:taxname:422076
 Hexapanopeus paulensis,urn:lsid:marinespecies.org:taxname:422081
 Panopeus obesus,urn:lsid:marinespecies.org:taxname:422085
 Panopeus occidentalis,urn:lsid:marinespecies.org:taxname:422086
+Panopeus simpsoni,urn:lsid:marinespecies.org:taxname:422088
 Pilumnus floridanus,urn:lsid:marinespecies.org:taxname:422097
 Pilumnus sayi,urn:lsid:marinespecies.org:taxname:422105
 Nanoplax xanthiformis,urn:lsid:marinespecies.org:taxname:422113
@@ -1642,6 +1660,7 @@ Orbicella faveolata,urn:lsid:marinespecies.org:taxname:758261
 Orbicella franksi,urn:lsid:marinespecies.org:taxname:758262
 Licornia regularis,urn:lsid:marinespecies.org:taxname:760385
 Mitrella aurantiaca,urn:lsid:marinespecies.org:taxname:760885
+Penaeus setiferus,urn:lsid:marinespecies.org:taxname:762818
 Eatoniella afronigra,urn:lsid:marinespecies.org:taxname:766775
 Platyhelminthes,urn:lsid:marinespecies.org:taxname:793
 Tanaididae,urn:lsid:marinespecies.org:taxname:798770
